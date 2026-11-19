@@ -1,0 +1,1 @@
+Read-only MentorMatch demo. No login, data collection, database, messaging or live video. Render build: pip install -r requirements.txt; start: gunicorn app:app. Use a separate repository. Local: python -m flask --app app run.
